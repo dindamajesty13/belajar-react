@@ -1,6 +1,3 @@
-import logo from './logo.svg';
-import './App.css';
-
 //stateless component
 function App() {
   return (
